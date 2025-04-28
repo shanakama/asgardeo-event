@@ -2,7 +2,7 @@
 org = "shanakamadushanka"
 name = "eventPub"
 version = "0.1.0"
-distribution = "2201.9.2"
+distribution = "2201.11.0"
 
 [build-options]
 observabilityIncluded = true
